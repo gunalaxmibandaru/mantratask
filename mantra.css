@@ -1,0 +1,14 @@
+
+
+.banner-section-bg-container {
+    background-image: url("banerimage.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.banner-section-bg-container1 {
+    background-image: url("banerimage.jpg");
+    background-size: cover;
+}
+#navbarNavAltMarkup{
+    text-align: center;
+}
